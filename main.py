@@ -37,18 +37,19 @@ def generate_pdf(
         c.drawImage(BACKGROUND_IMAGE, 0, 0, width=width, height=height)
 
         # Add user inputs
+        
         c.setFont("Helvetica-Bold", 11)
         y = height - 100
         gap = 22
-        c.drawString(100, y, f"Shipping Bill No: {shipping_bill_no}"); y -= gap
-        c.drawString(100, y, f"Invoice No: {invoice_no}"); y -= gap
-        c.drawString(100, y, f"Nature of Transaction: {nature_of_transaction}"); y -= gap
-        c.drawString(100, y, f"Sellers and Buyers: {sellers_buyers}"); y -= gap
-        c.drawString(100, y, f"Influenced Price: {influenced_price}"); y -= gap
-        c.drawString(100, y, f"Terms of Payment: {terms_payment}"); y -= gap
-        c.drawString(100, y, f"Terms of Delivery: {terms_delivery}"); y -= gap
-        c.drawString(100, y, f"Place: {place}"); y -= gap
-        c.drawString(100, y, f"Date: {date}")
+        c.drawString(250, 700, f"{shipping_bill_no}")
+        c.drawString(200, 665, f"{invoice_no}")
+        c.drawString(240, 635, f"{nature_of_transaction}")
+        c.drawString(410, 485, f"{sellers_buyers}")
+        c.drawString(490, 450, f"{influenced_price}")
+        c.drawString(200, 420, f"{terms_payment}")
+        c.drawString(200, 380, f"{terms_delivery}")
+        c.drawString(115, 160, f"{place}")
+        c.drawString(110, 140, f"{date}")
 
         c.showPage()
         c.save()
