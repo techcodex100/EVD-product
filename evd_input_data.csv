@@ -1,0 +1,51 @@
+shipping_bill_no,invoice_no,nature_of_transaction,sellers_buyers,influenced_price,terms_payment,terms_delivery,place,date
+12345,INV001,Export,ABC Exports,10000,Credit,FOB,Mumbai,2025-07-18
+12346,INV002,Import,XYZ Imports,25000,Advance,CIF,Chennai,2025-07-18
+12347,INV003,Export,PQR Enterprises,15000,Letter of Credit,FOB,Delhi,2025-07-18
+12348,INV004,Import,LMN Traders,22000,Post Shipment,CIF,Kolkata,2025-07-18
+12349,INV005,Export,GHI Global,18000,Credit,CFR,Ahmedabad,2025-07-18
+12350,INV006,Import,JKL Pvt Ltd,27500,Advance,CIF,Hyderabad,2025-07-18
+12351,INV007,Export,DEF International,19500,Credit,FOB,Bengaluru,2025-07-18
+12352,INV008,Import,TUV Imports,16000,Letter of Credit,CIF,Pune,2025-07-18
+12353,INV009,Export,WXY Corp,14500,Post Shipment,FOB,Jaipur,2025-07-18
+12354,INV010,Import,NOP Global,20000,Advance,CIF,Surat,2025-07-18
+12345,INV001,Export,ABC Exports,10000,Credit,FOB,Mumbai,2025-07-18
+12346,INV002,Import,XYZ Imports,25000,Advance,CIF,Chennai,2025-07-18
+12347,INV003,Export,PQR Enterprises,15000,Letter of Credit,FOB,Delhi,2025-07-18
+12348,INV004,Import,LMN Traders,22000,Post Shipment,CIF,Kolkata,2025-07-18
+12349,INV005,Export,GHI Global,18000,Credit,CFR,Ahmedabad,2025-07-18
+12350,INV006,Import,JKL Pvt Ltd,27500,Advance,CIF,Hyderabad,2025-07-18
+12351,INV007,Export,DEF International,19500,Credit,FOB,Bengaluru,2025-07-18
+12352,INV008,Import,TUV Imports,16000,Letter of Credit,CIF,Pune,2025-07-18
+12353,INV009,Export,WXY Corp,14500,Post Shipment,FOB,Jaipur,2025-07-18
+12354,INV010,Import,NOP Global,20000,Advance,CIF,Surat,2025-07-18
+12345,INV001,Export,ABC Exports,10000,Credit,FOB,Mumbai,2025-07-18
+12346,INV002,Import,XYZ Imports,25000,Advance,CIF,Chennai,2025-07-18
+12347,INV003,Export,PQR Enterprises,15000,Letter of Credit,FOB,Delhi,2025-07-18
+12348,INV004,Import,LMN Traders,22000,Post Shipment,CIF,Kolkata,2025-07-18
+12349,INV005,Export,GHI Global,18000,Credit,CFR,Ahmedabad,2025-07-18
+12350,INV006,Import,JKL Pvt Ltd,27500,Advance,CIF,Hyderabad,2025-07-18
+12351,INV007,Export,DEF International,19500,Credit,FOB,Bengaluru,2025-07-18
+12352,INV008,Import,TUV Imports,16000,Letter of Credit,CIF,Pune,2025-07-18
+12353,INV009,Export,WXY Corp,14500,Post Shipment,FOB,Jaipur,2025-07-18
+12354,INV010,Import,NOP Global,20000,Advance,CIF,Surat,2025-07-18
+12345,INV001,Export,ABC Exports,10000,Credit,FOB,Mumbai,2025-07-18
+12346,INV002,Import,XYZ Imports,25000,Advance,CIF,Chennai,2025-07-18
+12347,INV003,Export,PQR Enterprises,15000,Letter of Credit,FOB,Delhi,2025-07-18
+12348,INV004,Import,LMN Traders,22000,Post Shipment,CIF,Kolkata,2025-07-18
+12349,INV005,Export,GHI Global,18000,Credit,CFR,Ahmedabad,2025-07-18
+12350,INV006,Import,JKL Pvt Ltd,27500,Advance,CIF,Hyderabad,2025-07-18
+12351,INV007,Export,DEF International,19500,Credit,FOB,Bengaluru,2025-07-18
+12352,INV008,Import,TUV Imports,16000,Letter of Credit,CIF,Pune,2025-07-18
+12353,INV009,Export,WXY Corp,14500,Post Shipment,FOB,Jaipur,2025-07-18
+12354,INV010,Import,NOP Global,20000,Advance,CIF,Surat,2025-07-18
+12345,INV001,Export,ABC Exports,10000,Credit,FOB,Mumbai,2025-07-18
+12346,INV002,Import,XYZ Imports,25000,Advance,CIF,Chennai,2025-07-18
+12347,INV003,Export,PQR Enterprises,15000,Letter of Credit,FOB,Delhi,2025-07-18
+12348,INV004,Import,LMN Traders,22000,Post Shipment,CIF,Kolkata,2025-07-18
+12349,INV005,Export,GHI Global,18000,Credit,CFR,Ahmedabad,2025-07-18
+12350,INV006,Import,JKL Pvt Ltd,27500,Advance,CIF,Hyderabad,2025-07-18
+12351,INV007,Export,DEF International,19500,Credit,FOB,Bengaluru,2025-07-18
+12352,INV008,Import,TUV Imports,16000,Letter of Credit,CIF,Pune,2025-07-18
+12353,INV009,Export,WXY Corp,14500,Post Shipment,FOB,Jaipur,2025-07-18
+12354,INV010,Import,NOP Global,20000,Advance,CIF,Surat,2025-07-18
